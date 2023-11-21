@@ -4,7 +4,7 @@ from PIL import Image
 
 # taking image which user wants
 # in the QR code center
-Logo_link = "sojansir.png"
+Logo_link = "m.png"
 
 logo = Image.open(Logo_link)
 
